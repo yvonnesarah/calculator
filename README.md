@@ -26,9 +26,11 @@ Application can can be viewed here:
 
 ## Screenshot(S)
 Calculator
+
 ![Screenshot](assets/images/calculator.png "Calculator")
 
 Calculator Example
+
 ![Screenshot](assets/images/calculator-example.png "Calculator Example")
 
 ## Credit
